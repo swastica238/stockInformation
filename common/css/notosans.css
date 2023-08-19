@@ -1,0 +1,67 @@
+@font-face {
+    font-family:'Noto Sans KR';
+    font-style:normal;
+    font-weight:300;
+    src: url(/common/css/font/NotoSansKR-Light.woff2) format('woff2'),
+    url(/common/css/font/NotoSansKR-Light.woff) format('woff'),
+    url(/common/css/font/NotoSansKR-Light.otf) format('opentype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+    font-style:normal;
+    font-weight:400;
+    src: url(/common/css/font/NotoSansKR-Regular.woff2) format('woff2'),
+    url(/common/css/font/NotoSansKR-Regular.woff) format('woff'),
+    url(/common/css/font/NotoSansKR-Regular.otf) format('opentype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+    font-style:normal;
+    font-weight:500;
+    src: url(/common/css/font/NotoSansKR-Medium.woff2) format('woff2'),
+    url(/common/css/font/NotoSansKR-Medium.woff) format('woff'),
+    url(/common/css/font/NotoSansKR-Medium.otf) format('opentype');
+}
+@font-face {
+    font-family:'Noto Sans KR';
+    font-style:normal;
+    font-weight:700;
+    src: url(/common/css/font/NotoSansKR-Bold.woff2) format('woff2'),
+    url(/common/css/font/NotoSansKR-Bold.woff) format('woff'),
+    url(/common/css/font/NotoSansKR-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family:'Noto Sans CJK JP';
+    font-style:normal;
+    font-weight:300;
+    src: url(/common/css/font/NotoSansCJKjp-Light.woff2) format('woff2'),
+    url(/common/css/font/NotoSansCJKjp-Light.woff) format('woff'),
+    url(/common/css/font/NotoSansCJKjp-Light.otf) format('opentype');
+}
+@font-face {
+    font-family:'Noto Sans CJK JP';
+    font-style:normal;
+    font-weight:400;
+    src: url(/common/css/font/NotoSansCJKjp-Regular.woff2) format('woff2'),
+    url(/common/css/font/NotoSansCJKjp-Regular.woff) format('woff'),
+    url(/common/css/font/NotoSansCJKjp-Regular.otf) format('opentype');
+}
+@font-face {
+    font-family:'Noto Sans CJK JP';
+    font-style:normal;
+    font-weight:500;
+    src: url(/common/css/font/NotoSansCJKjp-Medium.woff2) format('woff2'),
+    url(/common/css/font/NotoSansCJKjp-Medium.woff) format('woff'),
+    url(/common/css/font/NotoSansCJKjp-Medium.otf) format('opentype');
+}
+@font-face {
+    font-family:'Noto Sans CJK JP';
+    font-style:normal;
+    font-weight:700;
+    src: url(/common/css/font/NotoSansCJKjp-Bold.woff2) format('woff2'),
+    url(/common/css/font/NotoSansCJKjp-Bold.woff) format('woff'),
+    url(/common/css/font/NotoSansCJKjp-Bold.otf) format('opentype');
+}
+
+h1, h2, h3, h4, h5, strong { font-weight:500; }
